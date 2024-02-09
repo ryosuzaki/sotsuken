@@ -1,1 +1,3 @@
 # sotsuken
+データ、実験結果などはdataフォルダに、プログラムはsrcフォルダにある。get_data_from_fmp.ipynbではFinancial Modeling PrepのAPI[27]を利用し、過去の金融データを収集、成型している。llm_predict.ipynbではベクトルデータベースの構築や予測、評価などの株価予測に伴う処理全般を行っている。
+dataフォルダはすべてで4GBあるため一部のみアップロードする。
